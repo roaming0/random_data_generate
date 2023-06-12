@@ -1,4 +1,4 @@
-//Import User Generator
+//Import
 const userGenerator = require('./user-generator');
 const readlineSync = require('readline-sync')
 
