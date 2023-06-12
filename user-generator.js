@@ -14,4 +14,6 @@ let UserGenerator = (times) => {
     }
     return result;
 }
+
+//Export
 module.exports = (UserGenerator);
